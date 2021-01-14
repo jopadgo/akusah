@@ -1,0 +1,282 @@
+@font-face {
+    font-family: 'parisienne';
+    src: url('../../fonts/Parisienne/Parisienne-Regular.ttf') format('truetype');
+}
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .mastheadSmall {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+ .bgLigthOpacity{
+   background-color: #2125291f;
+ } 
+ .bgDarkOpacity{
+  background-color: #212529b3;
+}
+.bgWhiteOpacity {
+  background-color: #ffffffcc;
+}
+ .bgDarkOpacity90{
+  background-color: #212529e3;
+}
+ .bgDarkcover{
+  background-color: #696e738f;
+} 
+ .fontBigCover{
+   font-size: 5rem;
+   color: white;
+   font-family: 'parisienne';
+
+ }
+
+ .fontCover5vh{
+  font-size: 5vh;
+  color: white;
+  font-family: 'parisienne';
+}
+
+ .fontBigWhitePar{
+  font-size: 2rem;
+  color: white;
+  font-family: 'parisienne';
+}
+
+.fontBigWhite{
+    font-size: 3rem;
+    color: white;
+    
+  }
+
+ .fontBigCoverDec{
+  font-size:5rem;
+  color: #ffbf00;
+}
+
+.fontTitleBig{
+  font-size: 50px;
+  color: #ffbf00;
+}
+
+.fontTitleBigCount{
+  font-size: 8vh;
+  color: #ffbf00;
+}
+
+.fontTitleBigBold{
+  font-size: 65px;
+  color: #ffbf00;
+  font-weight: bold;
+}
+
+.fontTitleBigBlack{
+  font-size: 50px;
+  color: #545454;
+  font-weight: bold;
+}
+
+.fontPhar{
+    font-family: 'parisienne';
+}
+
+.fontSecBigSec{
+  font-size: 50px;
+  color: #ffbf00;
+  font-weight: bold;
+}
+
+.fontSecMedSec{
+  font-size: 35px;
+  color: #ffbf00;
+  font-weight: bold;
+}
+
+.fontSecMedSecPar{
+    font-size: 52px;
+    color: #ffbf00;
+    font-family: 'parisienne';
+
+  }
+
+.fonstSize{
+  font-size: 1.3rem;
+  color: #8e8e8e;
+}
+
+.font17{
+  font-size: 17px;
+  line-height: 2.0;
+}
+
+.font2vh{
+  font-size: 2vh;
+  line-height: 2.0;
+}
+
+.font15{
+    font-size: 15px;
+    line-height: 2.0;
+  }
+
+.fontGrey{
+  color: #8e8e8e;
+}
+
+.ptb5{
+    padding-bottom: 3rem!important;
+    padding-top: 3rem!important;
+  }
+
+.ptb10{
+  padding-bottom: 6rem!important;
+  padding-top: 6rem!important;
+}
+
+.ptb20{
+  padding-bottom: 20rem!important;
+  padding-top: 20rem!important;
+}
+
+.ptb7{
+  padding-bottom: 7rem!important;
+  padding-top: 7rem!important;
+}
+
+.rmMarginBot{
+  margin-bottom: 0;
+}
+
+.background {
+    background-color: #eaeaea;
+}
+
+.videoBack{
+  z-index: -99;
+  position: relative;
+}
+.frameVid {
+  width: 100%;
+  height: 400px;
+}
+
+
+
+.after, .before {
+  height:50px;
+  background-color: gray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#banner {
+  position: relative;
+  height:auto;
+  width:100%;
+  overflow: hidden;
+  background-color: #0000007a;
+}
+.videobcg {
+  position: absolute;
+  top: 0;
+  left: -12%;
+  min-width: 100%;
+  min-height: 100%;
+  width: 240vh;
+  height: 56vw;
+  z-index: -100;
+}
+
+.videobcgXs {
+  position: absolute;
+    top: 0;
+    left: -151.614%;
+    width: 240vh;
+    height: 199vw;
+    z-index: -100;
+}
+
+.videobcgS {
+  position: absolute;
+    top: 0;
+    left: -296.614%;
+    width: 371vh;
+    height: 178vw;
+    z-index: -100;
+}
+
+.videobcgMd {
+  position: absolute;
+    top: 0;
+    left: -189.614%;
+    width: 347vh;
+    height: 104vw;
+    z-index: -100;
+}
+
+.videobcgL {
+  position: absolute;
+    top: 0;
+    left: -99%;
+    width: 288vh;
+    height: 105vw;
+    z-index: -100;
+}
+
+.videobcgEs{
+  position: absolute;
+    top: 0;
+    left: -200%;
+    width: 288vh;
+    height: 190vw;
+    z-index: -100;
+}
+
+.marginTB{
+  margin-top: 40%;
+  margin-bottom: 40%;
+}
+
+.carousel{
+  margin-top: 50px;
+}
+.carousel-inner{
+  height: 100px;
+}
+.carousel-caption{
+  color: #fff;
+  top: 50%;
+}
+
+.form{
+  background: none;
+  border: white 1px solid;
+  color: white;
+}
+
+.form:focus{
+  background: none;
+  color: white;
+}
+
+.form::placeholder {
+  color: white;
+}
+.fontWhite{
+  color: white;
+}
+#dom-element {
+    width: 600px;
+    height: 400px;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    background-size: cover;
+}
+

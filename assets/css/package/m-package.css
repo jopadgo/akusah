@@ -1,0 +1,105 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .mastheadSmall {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+ .bgDarkOpacity{
+   background-color: #212529a6;
+ } 
+ .bgDarkOpacity90{
+  background-color: #212529e3;
+}
+ .bgDarkcover{
+  background-color: #696e738f;
+} 
+ .fontBigCover{
+   font-size: 6vh;
+   color: white;
+   
+ }
+
+ .fontBigWhite{
+  font-size: 5rem;
+  color: white;
+  
+}
+
+ .fontBigCoverDec{
+  font-size:8vh;
+  color: #ffbf00;
+}
+
+.fontTitleBig{
+  font-size: 50px;
+  color: #ffbf00;
+}
+
+.fontTitleBigBold{
+  font-size: 65px;
+  color: #ffbf00;
+  font-weight: bold;
+}
+
+.fontTitleBigBlack{
+  font-size: 50px;
+  color: #545454;
+  font-weight: bold;
+}
+
+.fontSecBigSec{
+  font-size: 50px;
+  color: #ffbf00;
+  font-weight: bold;
+}
+
+.fontSecMedSec{
+  font-size: 35px;
+  color: #ffbf00;
+  font-weight: bold;
+}
+
+.fonstSize{
+  font-size: 1.3rem;
+  color: #8e8e8e;
+}
+
+.font17{
+  font-size: 17px;
+  line-height: 2.0;
+}
+
+.fontGrey{
+  color: #8e8e8e;
+}
+
+.ptb10{
+  padding-bottom: 6rem!important;
+  padding-top: 6rem!important;
+}
+
+.ptb20{
+  padding-bottom: 20rem!important;
+  padding-top: 20rem!important;
+}
+
+.ptb7{
+  padding-bottom: 7rem!important;
+  padding-top: 7rem!important;
+}
+
+.rmMarginBot{
+  margin-bottom: 0;
+}
+
+.fontTitleBigCount{
+  font-size: 8vh;
+  color: #ffbf00;
+}
+
